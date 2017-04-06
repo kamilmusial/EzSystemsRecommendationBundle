@@ -20,7 +20,8 @@
     },
     "autoload": {
         "psr-4": {
-            "EzSystems\\RecommendationBundle\\": ""
+            "EzSystems\\RecommendationBundle\\": "bundle/",
+            "EzSystems\\Recommendation\\": "lib/"
         }
     },
     "extra": {
